@@ -1,4 +1,4 @@
-# active-labor-notifs
+# labor-notifs
 A python scripting project to send periodic notifications during your wife's active labor
 
 This is an app that will utilize a few tools like requests, ntfy, and AP scheduler in order to send notifications to your iPhone.
